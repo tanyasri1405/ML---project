@@ -159,8 +159,6 @@ These are possible extensions and are not claims about currently implemented fea
 
 ## 📄 License
 
-Choose and add an appropriate open-source license before distributing this project publicly.
-
 ---
 
 **Keywords:** Network Security, Intrusion Detection System, Machine Learning, Random Forest, Gradient-Boosted Trees, CIC-IDS2017, Cybersecurity, Classification.
