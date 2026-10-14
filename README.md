@@ -84,7 +84,7 @@ network-intrusion-detection/
 └── README.md
 ```
 
-*Note: This is a suggested directory structure. Adjust the filenames to match the files actually present in your repository.*
+
 
 ## 🚀 Getting Started
 
